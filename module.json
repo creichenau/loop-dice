@@ -6,7 +6,7 @@
 	"minimumCoreVersion" : "0.7.0",
 	"compatibleCoreVersion" : "0.7.7",
 	"author": "Reichenau, Cody",
-	"download": "https://github.com/creichenau/loop-dice/archive/refs/tags/1.zip",
+	"download": "https://raw.githubusercontent.com/creichenau/loop-dice/master/loop-dice.zip",
 	"scripts": [
 		"scripts/loop-dice.js"
 	],
