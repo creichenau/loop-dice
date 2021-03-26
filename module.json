@@ -1,0 +1,20 @@
+{
+	"name": "loop-dice",
+	"title": "Loop Dice",
+	"description": "Adds Tales From the Loop dice to Dice So Nice",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.7.0",
+	"compatibleCoreVersion" : "0.7.7",
+	"author": "Reichenau, Cody",
+	"scripts": [
+		"scripts/loop-dice.js"
+	],
+	"styles": [
+		"styles/loop-dice.css"
+	],
+	"dependencies": [
+	{
+  		"name": "dice-so-nice",
+  		"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/2.0.3/module/module.json"
+	}]
+}
